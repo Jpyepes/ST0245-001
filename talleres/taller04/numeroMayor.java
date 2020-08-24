@@ -16,18 +16,13 @@ public class numeroMayor {
 
     }
 
-    public static void main (String []args) {
-       for (int n = 10; n<30;n++){
-             int [] arr = new int [n];
-             for (int j=0; j<n;j++){
-                arr [j]= j;
-                }
-             long tiempoinicial = System.currentTimeMillis();
-             maximo(new int [n]);
-             long tiempofinal = System.currentTimeMillis();
-             System.out.println (tiempofinal-tiempoinicial);
+    public static void main(String args[]){
+        long tiempoInicial=System.currentTimeMillis();
+        for(int n=9000;n<9020;n++){
+            maximo (new int [n]);
+            long tiempoFinal=System.currentTimeMillis();
+            System.out.println(tiempoFinal-tiempoInicial);
         }
-    }
-    
 
+    }
 }
