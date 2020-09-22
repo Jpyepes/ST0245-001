@@ -1,0 +1,19 @@
+4.1 -a
+    -b
+4.2 c) O(n)
+4.4 - stack.push(token);
+    - c) O(1)
+4.8   O(n) y O(n)
+4.10 - d) O(n)
+     - a) 6
+     - b) O(n)
+4.11 
+     - b) O(max(list)xn)
+     - b) O(n)
+4.12
+     - !s1.next
+     - s2.push(s1.next);
+     - s2.push();
+4.13
+    - O(n^2)
+    - O(n)
