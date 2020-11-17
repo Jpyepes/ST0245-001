@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Nodo
+comment0.text=\r\n\ La\ clase\ Nodo\ contiene\ dos\ constructores\ y\ 5\ getters\ con\ sus\ respectivos\ atributos\ que\ permiten\ la\ \r\n\ creacion\ del\ arbol\ en\ posteriores\ clases.\r\n\ Esta\ clase\ esta\ basada\ en\ el\ video\ "Let\u2019s\ Write\ a\ Decision\ Tree\ Classifier\ from\ Scratch2"\:\ https\://www.youtube.com/watch?v\=LDRbO9a6XPU\r\n\r\n
+comment1.params=e1\ Derecho\ Izquierdo\ datos
+comment1.target=Nodo(Etiqueta,\ Nodo,\ Nodo,\ java.lang.String[][])
+comment2.params=hoja
+comment2.target=Nodo(java.lang.String[][])
+comment3.params=
+comment3.target=Etiqueta\ getEtiqueta()
+comment4.params=
+comment4.target=Nodo\ getDerecho()
+comment5.params=
+comment5.target=Nodo\ getIzquierdo()
+comment6.params=
+comment6.target=java.lang.String[][]\ getDatos()
+comment7.params=
+comment7.target=nodoHoja\ getHoja()
+numComments=8

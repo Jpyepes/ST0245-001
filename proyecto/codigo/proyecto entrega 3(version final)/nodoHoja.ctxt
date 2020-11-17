@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=nodoHoja
+comment0.text=\r\n\ La\ clase\ nodoHoja\ contiene\ 1\ constructor\ y\ 1\ getter\ con\ sus\ respectivos\ atributos\ que\ permiten\ la\ \r\n\ creacion\ del\ arbol\ en\ posteriores\ clases\r\n\ Esta\ clase\ esta\ basada\ en\ el\ video\ "Let\u2019s\ Write\ a\ Decision\ Tree\ Classifier\ from\ Scratch2"\:\ https\://www.youtube.com/watch?v\=LDRbO9a6XPU\r\n
+comment1.params=hoja
+comment1.target=nodoHoja(java.lang.String[][])
+comment2.params=
+comment2.target=java.lang.String[][]\ getHoja()
+comment3.params=
+comment3.target=int\ contarPredicciones()
+comment3.text=\r\n\ El\ m\u00E9todo\ contar\ permite\ llevar\ la\ cuenta\ de\ las\ predicciones\ teniendo\ en\ cuenta\ el\ exito\ o\ el\ fracaso\r\n\ @return\ int\ cont\r\n
+numComments=4

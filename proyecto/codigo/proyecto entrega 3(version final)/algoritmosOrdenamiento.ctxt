@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=algoritmosOrdenamiento
+comment0.text=\r\n\ La\ clase\ algoritmos\ ordenamiento\ esta\ basada\ en\ la\ pagina\ geeks\ for\ geeks\r\n\ Merge\ Sort\:\ https\://www.geeksforgeeks.org/merge-sort/\r\n
+comment1.params=matriz\ pos
+comment1.target=java.lang.String[][]\ ordenamientoMatriz(java.lang.String[][],\ int)
+comment1.text=\r\n\ El\ m\u00E9todo\ ordenamientoMatriz\ es\ un\ m\u00E9todo\ que\ permite\ ordenar\ un\ arreglo\ de\ enteros,\ en\ este\ caso\ de\ menor\ a\ mayor\ por\ medio\ del\ algoritmo\ mergeSort\ con\ compeljidad\ O(nlog(n))\r\n\ @param\ String\ [][]\ matriz,\ matriz\ a\ ordenar\r\n\ @param\ int\ pos,\ posicion\ columna\ de\ la\ matriz\ a\ ordenar\r\n
+comment2.params=matriz\ L\ R\ pos
+comment2.target=java.lang.String[][]\ mergesortMatriz(java.lang.String[][],\ int,\ int,\ int)
+comment3.params=matriz\ L\ mitad\ R\ pos
+comment3.target=java.lang.String[][]\ mergeauxMatriz(java.lang.String[][],\ int,\ int,\ int,\ int)
+comment4.params=array
+comment4.target=java.lang.String[]\ ordenamientoArreglo(java.lang.String[])
+comment4.text=\r\n\ El\ m\u00E9todo\ ordenamientoArreglo\ es\ un\ m\u00E9todo\ que\ permite\ ordenar\ un\ arreglo\ de\ enteros,\ en\ este\ caso\ de\ menor\ a\ mayor\ por\ medio\ del\ algoritmo\ mergeSort\ con\ compeljidad\ O(nlog(n))\r\n\ @param\ String\ []\ array,\ arreglo\ a\ ordenar\r\n\ @param\ int\ pos,\ posicion\ columna\ de\ la\ matriz\ a\ ordenar\r\n
+comment5.params=array\ L\ R
+comment5.target=java.lang.String[]\ mergesortArreglo(java.lang.String[],\ int,\ int)
+comment6.params=array\ L\ mitad\ R
+comment6.target=java.lang.String[]\ mergeauxArreglo(java.lang.String[],\ int,\ int,\ int)
+numComments=7

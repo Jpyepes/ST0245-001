@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ La\ clase\ Main\ permite\ crear\ un\ test\ y\ medir\ su\ tiempo\ de\ ejecucion\r\n\ @author\ (Juan\ Pablo\ Yepes\ Garc\u00EDa,\ Sim\u00F3n\ C\u00E1rdenas\ Villada)\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

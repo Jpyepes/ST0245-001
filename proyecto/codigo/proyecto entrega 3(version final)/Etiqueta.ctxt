@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Etiqueta
+comment0.text=\r\n\ La\ clase\ Etiqueta\ contiene\ 1\ constructor\ y\ 2\ getters\ con\ sus\ respectivos\ atributos\ que\ permiten\ tener\ \r\n\ presente\ la\ columna\ y\ el\ mejor\ valor\ para\ asi\ lelgar\ al\ metodo\ comparar\ en\ donde\ retorna\ true\ en\ el\r\n\ caso\ de\ que\ el\ valor\ sea\ menor\ o\ igual\ a\ el\ mejorValor\r\n\ Esta\ clase\ esta\ basada\ en\ el\ video\ "Let\u2019s\ Write\ a\ Decision\ Tree\ Classifier\ from\ Scratch2"\:\ https\://www.youtube.com/watch?v\=LDRbO9a6XPU\r\n
+comment1.params=index\ mejorValor
+comment1.target=Etiqueta(int,\ int)
+comment2.params=
+comment2.target=int\ getIndex()
+comment3.params=
+comment3.target=int\ getMejorValor()
+comment4.params=fila
+comment4.target=boolean\ comparar(java.lang.String[])
+numComments=5

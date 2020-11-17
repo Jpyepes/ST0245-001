@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=datasetEntrenamiento\ datasetTest
+comment1.target=Test(java.lang.String,\ java.lang.String)
+numComments=2

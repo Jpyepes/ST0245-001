@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Gini
+comment1.params=n1\ n0
+comment1.target=float\ Gini(float,\ float)
+comment1.text=\r\n\ El\ m\u00E9todo\ Gini\ permite\ sacar\ la\ impureza\ de\ gini\ de\ las\ columnas\ de\ la\ matriz\r\n\ @param\ float\ n1\ variable\ de\ exito\r\n\ @param\ float\ n2\ variable\ de\ fracaso\r\n\ @return\ float\ impureza\ de\ Gini\r\n
+comment2.params=matriz\ posicion
+comment2.target=java.lang.String[]\ valoresColumnas(java.lang.String[][],\ int)
+comment2.text=\r\n\ El\ m\u00E9todo\ valoresColumnas\ permite\ sacar\ un\ valor\ de\ cada\ columna\ sin\ repetirlo\ por\ medio\ de\ un\ HashSet,\r\n\ tambien\ se\ podria\ implementar\ un\ treeSet\r\n\ @param\ String\ [][]\ matriz,\ matriz\ a\ evaluar\r\n\ @param\ int\ posicion,\ posicion\ de\ la\ columna\r\n\ @return\ String\ []\ vals\r\n
+comment3.params=m\ f\ c
+comment3.target=boolean\ esPosValidaEnMatriz(java.lang.String[][],\ int,\ int)
+comment4.params=matriz\ pos\ val
+comment4.target=javafx.util.Pair\ dividirMatriz(java.lang.String[][],\ int,\ int)
+comment4.text=\r\n\ El\ m\u00E9todo\ dividirMatriz\ permite\ dividir\ una\ matriz\ dada\ en\ dos\ arreglos,\ guardandola\ en\ una\ pair\r\n\ @param\ String\ [][]\ matriz,\ matriz\ a\ evaluar\r\n\ @param\ int\ posicion,\ posicion\ de\ la\ columna\r\n\ @param\ int\ val\ valor\ a\ evaluar\r\n\ @return\ Pair<String[][],String[][]>\ matrizDividida\r\n
+comment5.params=matriz
+comment5.target=javafx.util.Pair\ mejorCondicion(java.lang.String[][])
+comment5.text=\r\n\ El\ m\u00E9todo\ mejorCondicion\ permite\ encontrar\ la\ mejor\ condicion\ \r\n\ @param\ String\ [][]\ matriz,\ matriz\ a\ evaluar\r\n\ @return\ Pair<Float,\ Pair<Integer,\ Integer>>\r\n
+comment6.params=matriz\ pos
+comment6.target=javafx.util.Pair\ mejorCondicionAux(java.lang.String[][],\ int)
+comment6.text=\r\n\ El\ m\u00E9todo\ mejorCondicionAux\ permite\ encontrar\ la\ mejor\ condicion\ teniendo\ en\ cuenta\ la\ impureza\ y\ \r\n\ la\ impureza\ ponderada\r\n\ @param\ String\ [][]\ matriz,\ matriz\ a\ evaluar\r\n\ @param\ int\ pos\ \r\n\ @return\ Pair<Float,\ Integer>\r\n
+comment7.params=mayores\ menores\ giniMayores\ giniMenores
+comment7.target=float\ impurezaP(float,\ float,\ float,\ float)
+numComments=8

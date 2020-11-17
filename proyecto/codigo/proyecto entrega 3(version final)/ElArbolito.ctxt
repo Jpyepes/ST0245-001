@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ElArbolito
+comment0.text=\r\n\ Esta\ clase\ esta\ basada\ en\ el\ video\ "Let\u2019s\ Write\ a\ Decision\ Tree\ Classifier\ from\ Scratch"\:\ https\://www.youtube.com/watch?v\=LDRbO9a6XPU\ \r\n
+comment1.params=raiz
+comment1.target=ElArbolito(java.lang.String[][])
+comment1.text=\r\n\ ElArbolito\ es\ un\ constructor\ de\ la\ clase\ que\ recibe\ una\ matriz\ y\ utiliza\ las\ diferente\ clases\ de\ este\r\n\ proyecto\ para\ generar\ el\ Arbol\r\n\ @param\ String\ [][]\ matriz,\ matriz\ a\ evaluar\r\n
+comment2.params=
+comment2.target=Nodo\ getRaiz()
+comment3.params=matriz
+comment3.target=Nodo\ CrearArbol(java.lang.String[][])
+comment3.text=\r\n\ El\ metodo\ crearArbol\ utiliza\ un\ llamado\ recursivo\ con\ las\ dos\ ramas\ para\ asi\ crear\ el\ arbol,\ sin\ emabrgo,\ \r\n\ antes\ de\ este\ llamado\ hay\ diferentes\ condiciones\ para\ asegurarse\ de\ que\ no\ haya\ error\ alguno\r\n\ @param\ String\ [][]\ datos,\ datos\ a\ evaluar\r\n\ @return\ Nodo\r\n
+comment4.params=estudiante\ nodo
+comment4.target=int\ predecir(java.lang.String[],\ Nodo)
+comment4.text=\r\n\ El\ metodo\ predecir\ por\ medio\ de\ la\ recursion\ intenta\ hacer\ la\ prediccion\ de\ un\ estudiante\ con\ base\ en\ \r\n\ los\ puntajes\ logrados\r\n\ @param\ String\ []\ estudiante,\ estudiante\ a\ evaluar\r\n\ @param\ Nodo\ nodo\ raiz\ a\ evaluar\r\n\ @return\ int\r\n
+comment5.params=nodo
+comment5.target=boolean\ tieneHoja(Nodo)
+numComments=6

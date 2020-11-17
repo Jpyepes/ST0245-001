@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=recolectarDatos
+comment0.text=\r\n\ La\ clase\ recolectarDatos\ contiene\ el\ metodo\ leer\ datos\ para\ importar\ los\ datasets\ y\ guardarlos\ en\ una\ matriz,\r\n\ tambien\ contiene\ metodos\ como\ getMatriz\ que\ retorna\ la\ matriz\ y\ mostrarMatriz\ que\ imprime\ la\ matriz.\r\n\ Esta\ clase\ esta\ basada\ en\ Stackoverrun\:\ https\://stackoverrun.com/es/q/11037083\r\n
+comment1.params=files
+comment1.target=void\ leerDatos(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String[][]\ getMatriz()
+comment3.params=hasta
+comment3.target=java.lang.String[][]\ seccionarDataSet(int)
+numComments=4
